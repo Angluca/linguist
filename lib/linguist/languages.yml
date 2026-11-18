@@ -4780,6 +4780,14 @@ MUF:
   codemirror_mode: forth
   codemirror_mime_type: text/x-forth
   language_id: 219
+Mach:
+  type: programming
+  color: "#FFA100"
+  extensions:
+  - ".mach"
+  tm_scope: source.mach
+  ace_mode: mach
+  language_id: 508254738
 Macaulay2:
   type: programming
   extensions:
